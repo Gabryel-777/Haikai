@@ -1,0 +1,11 @@
+﻿Console.Clear();
+Console.ForegroundColor = ConsoleColor.Cyan;
+Console.WriteLine("INVERNO");
+Console.ResetColor();
+Thread.Sleep (1500);
+Console.WriteLine("O sol de inverno:");
+Thread.Sleep(1000);
+Console.WriteLine("a cavalo congela");
+Thread.Sleep(1000);
+Console.WriteLine("a minha sombra.");
+Console.Write("Autor: "); Thread.Sleep(1000); Console .Write("Matsuo Bashô");
